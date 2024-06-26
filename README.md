@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive end-to-end Azure Data Engineering solution, covering the entire data lifecycle from ingestion to reporting. The project utilizes various Azure services and tools to achieve efficient data handling, transformation, and reporting.
+This repository contains a comprehensive end-to-end Azure Data Engineering solution, covering the entire data lifecycle from ingestion to reporting. The project utilizes various Azure services and tools to achieve efficient data handling, transformation, and reporting. This project is useful for beginner Data engineer and anyone who want to upskill and get hands-on experience on Azure Data Engineering.
 
 ## Project Components
 
@@ -78,7 +78,7 @@ The project's objective is to build an end-to-end solution for data processing a
 
 ## Setup Instructions
 
-1. **Azure Services Setup**: Deploy necessary Azure services (Data Factory, Data Lake Storage, Databricks, Synapse Analytics, Key Vault, AAD).
+1. **Azure Services Setup**: Deploy necessary Azure services (Data Factory, Data Lake Storage, Databricks, Synapse Analytics, Key Vault, AAD). Project can implemented using Azure Free trial (30 days) and Azure Databricks trial (14 days).
    
 2. **Configuration**:
    - Configure Azure Data Factory pipelines for data ingestion and orchestration.
@@ -109,6 +109,5 @@ By following these steps and utilizing the provided tools and scripts, you can s
 
 #### Reference and Support
 https://youtu.be/mECDWTYiKp4?si=Ljm4tMUomboeW15l 
-Feel free to reach out for any further assistance or clarification regarding the project setup and implementation.
-Email at raysachin1997@gmail.com
-Happy data engineering!
+- Feel free to reach out for any further assistance or clarification regarding the project setup and implementation. Email at raysachin1997@gmail.com
+- Happy data engineering!
