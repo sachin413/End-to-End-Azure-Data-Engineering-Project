@@ -1,8 +1,8 @@
-# End-to-End Azure Data Engineering Project
+# Azure Data Engineering End-to-End Solution
 
 ## Overview
 
-This repository contains a comprehensive end-to-end Azure Data Engineering project, covering the entire data lifecycle from ingestion to reporting. The project utilizes various Azure services and tools to achieve efficient data handling, transformation, and reporting.
+This repository contains a comprehensive end-to-end Azure Data Engineering solution, covering the entire data lifecycle from ingestion to reporting. The project utilizes various Azure services and tools to achieve efficient data handling, transformation, and reporting.
 
 ## Project Components
 
