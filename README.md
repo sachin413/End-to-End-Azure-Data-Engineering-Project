@@ -107,7 +107,6 @@ The project's objective is to build an end-to-end solution for data processing a
 
 By following these steps and utilizing the provided tools and scripts, you can successfully implement and test the end-to-end Azure Data Engineering project.
 
-#### Reference and Support
-https://youtu.be/mECDWTYiKp4?si=Ljm4tMUomboeW15l 
+#### Support
 - Feel free to reach out for any further assistance or clarification regarding the project setup and implementation. Email at raysachin1997@gmail.com
 - Happy data engineering!
